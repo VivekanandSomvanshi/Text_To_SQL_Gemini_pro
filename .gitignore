@@ -25,6 +25,10 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+example_1.db
+# Ignore SQLite database files
+*.db
+
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
